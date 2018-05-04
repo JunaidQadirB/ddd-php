@@ -9,18 +9,23 @@ I have a bit different approach, I wrapped the  `Domain`,`Application` and `Infr
 ## Installation
 
 `git clone https://github.com/JeyKeu/dd-php.git`
+
 `composer install`
 
 ## Running 
 
 ### CLI
+
     `cd dd-php`
+    
     `php index.php`
     
    
    
 ### Browser
+
     `cd dd-php`
+    
     `php -S localhost:8081`
 
 

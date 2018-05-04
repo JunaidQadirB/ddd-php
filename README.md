@@ -16,17 +16,17 @@ I have a bit different approach, I wrapped the  `Domain`,`Application` and `Infr
 
 ### CLI
 
-    `cd dd-php`
+`cd dd-php`
     
-    `php index.php`
+`php index.php`
     
    
    
 ### Browser
 
-    `cd dd-php`
+`cd dd-php`
     
-    `php -S localhost:8081`
+`php -S localhost:8081`
 
 
 

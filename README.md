@@ -1,6 +1,6 @@
 # Domain-Driven Design Implementation In PHP
 
-This is a working demo which demonstrates how to implement DDD in PHP.
+This is a working demo which demonstrates how to implement Hexagonal Architecture in PHP.
 
 I followed this [blog post](https://www.yordipauptit.com/hexagonal-architecture-in-php/) by [Yordi Pauptit](https://github.com/YP28).
 
